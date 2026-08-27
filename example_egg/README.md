@@ -11,7 +11,7 @@ A link to the site that you download the server files from.
 A link to relevent documentation for the server.
 
 The description of the server usually provided by the game/server maker.
-<!--Example: Parkers Pterodactyl Eggs Repo. Server eggs for the Pterodactyl management panel-->
+<!--Example: Parkers Pelican Eggs Repo. Server eggs for the Pelican management panel-->
 
 ## Install notes
 
